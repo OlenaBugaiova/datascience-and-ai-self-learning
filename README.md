@@ -7,8 +7,8 @@ Self-education starts with uncertainty. It offers the freedom to build your path
 
 To organize my journey of self-education in Data Science & Machine Learning I followed these steps:
 * I asked myself: 
-  * What drives me?, - and from curiosity, inspiration, motivation and obstacles I have chosen this time: "Curiosity, inspiration and motivation"
-  * What keeps me inspired? - "Research, Science, High-quality courses, Like-minded people, Applying AI and Data Science to the real-life problems, Business understanding, 'playing' with the Data, visualizing, retrieving insights, learning about the world, understanding the concept/idea, successfully applying my mathematical skills
+  * What drives me?, - and from curiosity, inspiration, motivation and obstacles the answer was: "Curiosity, inspiration and motivation"
+  * What keeps me inspired? - "Research, Science, High-quality courses, Like-minded people, Applying AI and Data Science to the real-life problems, Business understanding, 'playing' with the Data, visualizing, retrieving insights, learning about the world, understanding the concept/idea, successfully applying my mathematical skills"
 * I respected my time; explained to friends and relatives my purpose; I found my rhythm and kept a balance of study and the rest
 * I planned my expenses and to be aware I wrote them down into my notes. I applied and received financial aid for the courses and tickets to conferences a few times 
 * I researched and made decisions on these topics:
