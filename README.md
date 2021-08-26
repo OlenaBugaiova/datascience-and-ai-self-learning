@@ -1,7 +1,7 @@
 # Experience of an autodidact in Data Science and Artificial Intelligence
 
 
-Self-education starts with uncertainty. It offers the freedom to build your path that suits your skills, strength, background, and wishes step by step. Having no feedback for a long time can be tough and determines how much you believe in your choices. In some periods, you can feel the more you know the more you don't know. Like climbing on top of a mountain, after reaching the peak you see new peaks from the Haight better. At the start, I felt lonely studying on my own. But during the journey I met enthusiasts from all over the world and found friends amazingly. Nowadays with the varietuy of courses self-education is an opportunity to learn from different perspectives, to live new experiences
+Self-education starts with uncertainty. It offers the freedom to build your path that suits your skills, strengths, background, and wishes step by step. Having no feedback for a long time can be tough and determines how much you believe in your choices. In some periods, I felt the more I know the more I don't know. Like climbing on top of a mountain, after reaching the peak you see new peaks from the Haight better. At the start, I felt lonely studying on my own. But during the journey I met enthusiasts from all over the world and found friends amazingly. Nowadays with the variety of courses self-education is an opportunity to learn from different perspectives, to live new experiences
 
 
 
