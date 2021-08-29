@@ -7,7 +7,7 @@ Self-education starts with uncertainty. It offers the freedom to build your path
 
 These steps helped me to organize my self-learning journey:
 * I asked myself: 
-  * What drives me?, - and from curiosity, inspiration, motivation and obstacles this time the answer was: "Curiosity, inspiration and motivation"
+  * What drives me?, - and from curiosity, inspiration, motivation and obstacles this time the answer was: Curiosity, inspiration and motivation
   * What keeps me inspired? - Research, science, high-quality courses, like-minded people, applying AI and Data Science to the real-life problems, business understanding, 'playing' with the data, visualizing, retrieving insights, learning about the world, understanding the concept/idea, successfully applying my mathematical skills
 * I respected my time; explained to friends and relatives my purpose; I found my rhythm and kept a balance of study and the rest
 * I planned my expenses and wrote them down into my notes to be aware. I applied and received financial aid for the courses and tickets to conferences when I couldn't attend otherwise 
@@ -24,11 +24,11 @@ These steps helped me to organize my self-learning journey:
 ---
 
 # Table of Contents
-## My Learning Roadmap
+## Learning Roadmap
 1. [How to study](#how-to-study)
 2. [Introductory courses](#introductory-courses)
 3. [Fundamentals](#fundamentals)
-4. [Applied knowledge](#applied-machine-learning-and-deep-learning)
+4. [Applied Machine Learning and Deep Learning](#applied-machine-learning-and-deep-learning)
 5. [Technologies](#technologies)
 6. [Practice](#practice)
 7. [Preparing for an interview](#preparing-for-an-interview)
@@ -43,34 +43,51 @@ These steps helped me to organize my self-learning journey:
 # Learning Roadmap
 
 
-## How to study
+### How to study
 * [Marty Lobdell - Study Less Study Smart](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
 * [Andrew Ng: How to Read Research Papers & Machine Learning Career Advice](https://www.youtube.com/watch?v=733m6qBH-jI&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
 
-## Introductory courses
-* [Python for Beginners - Go from Java to Python in 100 Steps](https://www.udemy.com/course/learn-python-programming-for-java-programmers/)
+### Introductory courses
 * [IBM Data Science](https://www.edx.org/professional-certificate/ibm-data-science)
+* [Python for Beginners - Go from Java to Python in 100 Steps](https://www.udemy.com/course/learn-python-programming-for-java-programmers/)
 * [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/)
 * [The Data Science Course 2021: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/)
+* [courses on kaggle](https://www.kaggle.com/learn)
+* [Data Visualization](https://www.freecodecamp.org/learn/data-visualization/), [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/), [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/) courses on [freeCodeCamp](https://www.freecodecamp.org/)
 
-## Fundamentals
+### Fundamentals
+* [MicroMasters® Program in Statistics and Data Science](https://www.edx.org/micromasters/mitx-statistics-and-data-science)
 
-## Applied Machine Learning and Deep Learning
+### Applied Machine Learning and Deep Learning
+* [MIT Introduction to Deep Learning](http://introtodeeplearning.com/)
+* [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+* [Machine Learning, Stanford](https://www.coursera.org/learn/machine-learning)
 
-## Technologies
+### Technologies
 
-## Practice
+### Practice
 
-## Preparing for an interview
+### Preparing for an interview
 
 ---
-## Deep learning
+### Domain
+* [Microeconomics](https://www.edx.org/course/microeconomics)
 
-## Mathematics
+### Deep learning
 
-## Research
+### Mathematics
+* [Essence of Linear Algebra, 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+* [Linear Algebra with Prof. Gilbert Strang | MIT](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) and [youtube version](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
 
-## Management
+### Algorithms
+* [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+* [Practice problem solving with LeetCode](https://leetcode.com/)
 
-## Soft Skills
+### Research
+
+### Management
+* [Let’s make work better](https://rework.withgoogle.com/)
+
+### Soft Skills
 * [How To Speak by Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
+* [How to Write an Essay](https://www.edx.org/course/how-to-write-an-essay)
