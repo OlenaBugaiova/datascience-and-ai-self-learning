@@ -37,8 +37,9 @@ These steps helped me to organize my self-learning journey:
 1. [Deep Learning](#deep-learning)
 2. [Mathematics](#mathematics)
 3. [Research](#research)
-4. [Management](#management)
-5. [Soft Skills](#soft-skills)
+4. [Domain](domain)
+5. [Management](#management)
+6. [Soft Skills](#soft-skills)
 ---
 # Learning Roadmap
 
@@ -70,8 +71,8 @@ These steps helped me to organize my self-learning journey:
 ### Preparing for an interview
 
 ---
-### Domain
-* [Microeconomics](https://www.edx.org/course/microeconomics)
+# Other resourse
+
 
 ### Deep learning
 
@@ -84,6 +85,9 @@ These steps helped me to organize my self-learning journey:
 * [Practice problem solving with LeetCode](https://leetcode.com/)
 
 ### Research
+
+### Domain
+* [Microeconomics](https://www.edx.org/course/microeconomics)
 
 ### Management
 * [Let’s make work better](https://rework.withgoogle.com/)
