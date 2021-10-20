@@ -1,14 +1,14 @@
 # Experience of an autodidact in Data Science and Artificial Intelligence
 
 
-Self-education starts with uncertainty. It offers the freedom to build your path that suits your skills, strengths, background, and wishes step by step. Having no feedback for a long time can be hard and determines how much you believe in your choices. In some periods, I felt the more I know the more I don't know. Like climbing on top of a mountain, after reaching the peak you see new peaks from the haight better. At the start, I felt lonely studying on my own. But during the journey I met enthusiasts from all over the world and with some we become friends. With the variety of courses available today self-education is an opportunity to learn from different perspectives, to live new experiences
+Self-education starts with uncertainty. It offers the freedom to build your path that suits your skills, strengths, background, and wishes step by step. Having no feedback for a long time can be hard and determines how much you believe in your choices. Time after time, I felt the more I know the more I don't know. Like climbing on top of a mountain, after reaching the peak you see new peaks from the haight better. At the start, I felt lonely studying on my own. But during the journey I met enthusiasts from all over the world and with some we become friends. With the variety of courses available today self-education is an opportunity to learn from different perspectives, to live new experiences
 
 ---
 
 These steps helped me to organize my self-learning journey:
 * I asked myself: 
   * What drives me?, - and from curiosity, inspiration, motivation and obstacles this time the answer was: Curiosity, inspiration and motivation
-  * What keeps me inspired? - Research, science, high-quality courses, like-minded people, applying AI and Data Science to the real-life problems, business understanding, 'playing' with the data, visualizing, retrieving insights, learning about the world, understanding the concept/idea, successfully applying my mathematical skills
+  * What keeps me inspired? - Research, science, high-quality courses, like-minded people, applying AI and Data Science to the real-life problems, business acumen, 'playing' with the data, visualizing, retrieving insights, learning about the world, understanding the concept/idea, successfully applying my mathematical skills
 * I respected my time; explained to friends and relatives my purpose; I found my rhythm and kept a balance of study and the rest
 * I planned my expenses and wrote them down into my notes to be aware. I applied and received financial aid for the courses and tickets to conferences when I couldn't attend otherwise 
 * I researched and made decisions on these topics:
@@ -19,7 +19,7 @@ These steps helped me to organize my self-learning journey:
     * What type of work do I like?
     * Where to apply?
     * What do I need to learn about the field to become confident at work?
-    * Is there a way for me to become a researcher or scientist keeping a study-life balance?
+    * Is there a way for me to become a researcher or a scientist keeping a study-life balance?
 
 ---
 
