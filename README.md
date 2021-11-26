@@ -29,7 +29,7 @@ These steps helped me to organize my self-learning journey:
 2. [Introductory courses](#introductory-courses)
 3. [Fundamentals](#fundamentals)
 4. [Applied Machine Learning and Deep Learning](#applied-machine-learning-and-deep-learning)
-5. [Technologies](#technologies)
+5. [Tools](#tools)
 6. [Practice](#practice)
 7. [Preparing for an interview](#preparing-for-an-interview)
 
@@ -59,16 +59,18 @@ These steps helped me to organize my self-learning journey:
 ### Fundamentals
 * [MicroMasters® Program in Statistics and Data Science](https://www.edx.org/micromasters/mitx-statistics-and-data-science)
 
-### Applied Machine Learning and Deep Learning
+### Applied state of the art Machine Learning and Deep Learning
 * [MIT Introduction to Deep Learning](http://introtodeeplearning.com/)
 * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 * [Machine Learning, Stanford](https://www.coursera.org/learn/machine-learning)
 
-### Technologies
+### Tools
 
 ### Practice
 
 ### Preparing for an interview
+* Cheatsheets in [Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/), [Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/) and [Data Science Tools](https://www.mit.edu/~amidi/teaching/data-science-tools/) based on courses at Stanford
+* Cheatsheets in [Statistics](https://github.com/mynameisjanus/186501xStatistics/blob/master/statistics_cheatsheet.pdf) based on MITx course
 
 ---
 # Other resourse
