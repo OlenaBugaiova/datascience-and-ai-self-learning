@@ -7,7 +7,7 @@ Self-education starts with uncertainty. It offers the freedom to build your path
 
 These steps helped me to organize my self-learning journey:
 * I asked myself: 
-  * What drives me?, - and from curiosity, inspiration, motivation and obstacles this time the answer was: Curiosity, inspiration and motivation
+  * What drives me?, - and from curiosity, inspiration, motivation and obstacles this time the answer was: curiosity, inspiration and motivation
   * What keeps me inspired? - Research, science, high-quality courses, like-minded people, applying AI and Data Science to the real-life problems, business acumen, 'playing' with the data, visualizing, retrieving insights, learning about the world, understanding the concept/idea, successfully applying my mathematical skills
 * I respected my time; explained to friends and relatives my purpose; I found my rhythm and kept a balance of study and the rest
 * I planned my expenses and wrote them down into my notes to be aware. I applied and received financial aid for the courses and tickets to conferences when I couldn't attend otherwise 
@@ -28,18 +28,19 @@ These steps helped me to organize my self-learning journey:
 1. [How to study](#how-to-study)
 2. [Introductory courses](#introductory-courses)
 3. [Fundamentals](#fundamentals)
-4. [Applied Machine Learning and Deep Learning](#applied-machine-learning-and-deep-learning)
+4. [Applied state of the art Machine Learning and Deep Learning](#applied-state-of-the-art-machine-learning-and-deep-learning)
 5. [Tools](#tools)
 6. [Practice](#practice)
 7. [Preparing for an interview](#preparing-for-an-interview)
 
-## Other resourses
+## Subfields
 1. [Deep Learning](#deep-learning)
 2. [Mathematics](#mathematics)
-3. [Research](#research)
-4. [Domain](domain)
-5. [Management](#management)
-6. [Soft Skills](#soft-skills)
+3. [Data Science](#data-science)
+4. [Research](#research)
+5. [Domain](domain)
+6. [Management](#management)
+7. [Soft Skills](#soft-skills)
 ---
 # Learning Roadmap
 
@@ -81,6 +82,9 @@ These steps helped me to organize my self-learning journey:
 ### Mathematics
 * [Essence of Linear Algebra, 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 * [Linear Algebra with Prof. Gilbert Strang | MIT](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) and [youtube version](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
+
+### Data Science
+* [A Guide to Handling Missing values in Python](https://www.kaggle.com/parulpandey/a-guide-to-handling-missing-values-in-python)
 
 ### Algorithms
 * [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
