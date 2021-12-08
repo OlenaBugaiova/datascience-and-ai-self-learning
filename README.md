@@ -93,8 +93,8 @@ These steps helped me to organize my self-learning journey:
 ### Research papers
 * [Adam: A Method for Stochastic Optimization](https://arxiv.org/pdf/1412.6980.pdf)
 * [No Unbiased Estimator of the Variance of K-Fold Cross-Validation](https://www.jmlr.org/papers/volume5/grandvalet04a/grandvalet04a.pdf)
-* <b>I like</b> [No free lunch theorems for optimization](https://ieeexplore.ieee.org/abstract/document/585893)
-* <b>I like</b> [Neural Actor: Neural Free-view Synthesis of Human Actors with Pose Control](https://vcai.mpi-inf.mpg.de/projects/NeuralActor/?fbclid=IwAR1c7zgDwFOuqv5n4OeJKTm3qCzh-qFL8GVoQDh6TqDaeVxiBWrq8_RPY68)
+* [No free lunch theorems for optimization](https://ieeexplore.ieee.org/abstract/document/585893)
+* [Neural Actor: Neural Free-view Synthesis of Human Actors with Pose Control](https://vcai.mpi-inf.mpg.de/projects/NeuralActor/?fbclid=IwAR1c7zgDwFOuqv5n4OeJKTm3qCzh-qFL8GVoQDh6TqDaeVxiBWrq8_RPY68)
 * <b>RL</b> [Causal Campbell-Goodhart’s law and Reinforcement Learning](https://arxiv.org/pdf/2011.01010.pdf)
 * <b>NLP</b> [Man is to Computer Programmer as Woman is to Homemaker?](https://arxiv.org/abs/1607.06520)
 * <b>NLP</b> [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf)
