@@ -54,7 +54,7 @@ These steps helped me to organize my self-learning journey:
 * [Python for Beginners - Go from Java to Python in 100 Steps](https://www.udemy.com/course/learn-python-programming-for-java-programmers/)
 * [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/)
 * [The Data Science Course 2021: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/)
-* [courses on kaggle](https://www.kaggle.com/learn)
+* [Courses on kaggle](https://www.kaggle.com/learn)
 * [Data Visualization](https://www.freecodecamp.org/learn/data-visualization/), [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/), [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/) courses on [freeCodeCamp](https://www.freecodecamp.org/)
 
 ### Fundamentals
