@@ -37,7 +37,7 @@ These steps helped me to organize my self-learning journey:
 1. [Deep Learning](#deep-learning)
 2. [Mathematics](#mathematics)
 3. [Data Science](#data-science)
-4. [Research](#research)
+4. [Research papers](#research-papers)
 5. [Domain](domain)
 6. [Management](#management)
 7. [Soft Skills](#soft-skills)
@@ -90,7 +90,19 @@ These steps helped me to organize my self-learning journey:
 * [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 * [Practice problem solving with LeetCode](https://leetcode.com/)
 
-### Research
+### Research papers
+* [Adam: A Method for Stochastic Optimization](https://arxiv.org/pdf/1412.6980.pdf)
+* [No Unbiased Estimator of the Variance of K-Fold Cross-Validation](https://www.jmlr.org/papers/volume5/grandvalet04a/grandvalet04a.pdf)
+* <b>I like</b> [No free lunch theorems for optimization](https://ieeexplore.ieee.org/abstract/document/585893)
+* <b>I like</b> [Neural Actor: Neural Free-view Synthesis of Human Actors with Pose Control](https://vcai.mpi-inf.mpg.de/projects/NeuralActor/?fbclid=IwAR1c7zgDwFOuqv5n4OeJKTm3qCzh-qFL8GVoQDh6TqDaeVxiBWrq8_RPY68)
+* <b>RL</b> [Causal Campbell-Goodhart’s law and Reinforcement Learning](https://arxiv.org/pdf/2011.01010.pdf)
+* <b>NLP</b> [Man is to Computer Programmer as Woman is to Homemaker?](https://arxiv.org/abs/1607.06520)
+* <b>NLP</b> [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf)
+* <b>NLP</b> [Attention Is All You Need](https://arxiv.org/abs/1706.03762#)
+* <b>CV</b> [Regions with CNN Features](https://paperswithcode.com/method/r-cnn)
+* <b>CV</b> [Image-to-Image Translation with Conditional Adversarial Nets](https://phillipi.github.io/pix2pix/)
+* <b>CV</b> [VisDA: A Synthetic-to-Real Benchmark for Visual Domain Adaptation](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w40/Peng_VisDA_A_Synthetic-to-Real_CVPR_2018_paper.pdf)
+* <b>Math</b> [On the Surprising Behavior of Distance Metrics in High Dimensional Space](https://bib.dbvis.de/uploadedFiles/155.pdf)
 
 ### Domain
 * [Microeconomics](https://www.edx.org/course/microeconomics)
