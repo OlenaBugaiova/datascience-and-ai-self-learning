@@ -74,7 +74,7 @@ These steps helped me to organize my self-learning journey:
 * Cheatsheets in [Statistics](https://github.com/mynameisjanus/186501xStatistics/blob/master/statistics_cheatsheet.pdf) based on MITx course
 
 ---
-# Other resourse
+# Subfields
 
 
 ### Deep learning
@@ -84,6 +84,7 @@ These steps helped me to organize my self-learning journey:
 * [Linear Algebra with Prof. Gilbert Strang | MIT](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) and [youtube version](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
 
 ### Data Science
+* [The Template Notebook](https://github.com/sajal2692/skeleton-notebook/blob/master/The%20Skeleton%20Notebook.ipynb) - this notebook serves as a great starting point for most Supervised Machine Learning projects that involve common tasks such as data exploration, cleaning, transformation and preparation, and data modelling
 * [A Guide to Handling Missing values in Python](https://www.kaggle.com/parulpandey/a-guide-to-handling-missing-values-in-python)
 
 ### Algorithms
