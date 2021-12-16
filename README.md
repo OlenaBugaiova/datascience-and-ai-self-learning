@@ -1,7 +1,7 @@
 # Experience of an autodidact in Data Science and Artificial Intelligence
 
 
-My self-education offered the freedom to build the path that suits my strengths, background, and wishes step by step. It included uncertainty, and after new accomplishments, I realized how much I don't know. Like after reaching the peak of a mountain you see new peaks from the height better. Having no feedback for a long time determined how much I believe in my choices. At the start, I felt lonely studying on my own. But during the journey, I met enthusiasts from all over the world, and with some, I feel friendship. Today, self-education is an opportunity to learn from different perspectives, to live new experiences
+Self-education allowed creating the path according to my strengths, background, and wishes step by step. With uncertainty after new accomplishments, I realized how much I don't know. Like when reaching the peak of a mountain new peaks appear from the height. Having no feedback for a long time determined how much I believe in my choices. I felt lonely studying on my own. But during the journey, I met enthusiasts from all over the world, and I feel friendship with some of them. Self-education is an opportunity to learn from different perspectives, to live new experiences
 
 ---
 
@@ -29,9 +29,10 @@ These steps helped me to organize my self-learning journey:
 2. [Introductory courses](#introductory-courses)
 3. [Fundamentals](#fundamentals)
 4. [Applied state of the art Machine Learning and Deep Learning](#applied-state-of-the-art-machine-learning-and-deep-learning)
-5. [Tools](#tools)
-6. [Practice](#practice)
-7. [Preparing for an interview](#preparing-for-an-interview)
+5. [Technologies](#technologies)
+6. [Tools](#tools)
+7. [Practice](#practice)
+8. [Preparing for an interview](#preparing-for-an-interview)
 
 ## Subfields
 1. [Deep Learning](#deep-learning)
@@ -51,11 +52,8 @@ These steps helped me to organize my self-learning journey:
 
 ### Introductory courses
 * [IBM Data Science](https://www.edx.org/professional-certificate/ibm-data-science)
-* [Python for Beginners - Go from Java to Python in 100 Steps](https://www.udemy.com/course/learn-python-programming-for-java-programmers/)
 * [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/)
 * [The Data Science Course 2021: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/)
-* [Courses on kaggle](https://www.kaggle.com/learn)
-* [Data Visualization](https://www.freecodecamp.org/learn/data-visualization/), [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/), [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/) courses on [freeCodeCamp](https://www.freecodecamp.org/)
 
 ### Fundamentals
 * [MicroMasters® Program in Statistics and Data Science](https://www.edx.org/micromasters/mitx-statistics-and-data-science)
@@ -64,6 +62,14 @@ These steps helped me to organize my self-learning journey:
 * [MIT Introduction to Deep Learning](http://introtodeeplearning.com/)
 * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 * [Machine Learning, Stanford](https://www.coursera.org/learn/machine-learning)
+
+### Technologies
+* [Python for Beginners - Go from Java to Python in 100 Steps](https://www.udemy.com/course/learn-python-programming-for-java-programmers/)
+* [Courses on Kaggle](https://www.kaggle.com/learn)
+* [Data Visualization](https://www.freecodecamp.org/learn/data-visualization/), [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/), [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/) courses on [freeCodeCamp](https://www.freecodecamp.org/)
+* [Practice coding skills](https://www.codewars.com/users/Olena%20Bugaiova/stats)
+* [Python Tutorial](https://www.w3schools.com/python/default.asp)
+* [Intermediate Python](https://www.sololearn.com/learning/1158)
 
 ### Tools
 
