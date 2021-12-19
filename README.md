@@ -40,9 +40,10 @@ These steps helped me to organize my self-learning journey:
 2. [Mathematics](#mathematics)
 3. [Data Science](#data-science)
 4. [Research papers](#research-papers)
-5. [Domain](domain)
+5. [Domain](#domain)
 6. [Management](#management)
 7. [Soft Skills](#soft-skills)
+8. [Inspiration](#inspiration)
 ---
 # Learning Roadmap
 
@@ -133,3 +134,6 @@ These steps helped me to organize my self-learning journey:
 ### Soft Skills
 * [How To Speak by Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
 * [How to Write an Essay](https://www.edx.org/course/how-to-write-an-essay)
+
+### Inspiration
+* Why Greatness Cannot Be Planned on [the Jim Rutt Show Podcasts](https://www.jimruttshow.com/ken_stanley/)
