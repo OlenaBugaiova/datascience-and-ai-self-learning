@@ -28,11 +28,12 @@ These steps helped me to organize my self-learning journey:
 1. [How to study](#how-to-study)
 2. [Introductory courses](#introductory-courses)
 3. [Fundamentals](#fundamentals)
-4. [Applied state of the art Machine Learning and Deep Learning](#applied-state-of-the-art-machine-learning-and-deep-learning)
+4. [Machine Learning and Deep Learning](#machine-learning-and-deep-learning)
 5. [Technologies](#technologies)
 6. [Tools](#tools)
 7. [Practice](#practice)
-8. [Preparing for an interview](#preparing-for-an-interview)
+8. [Interview preparation](#interview-preparation)
+9. [Podcasts](#podcasts)
 
 ## Subfields
 1. [Deep Learning](#deep-learning)
@@ -58,7 +59,7 @@ These steps helped me to organize my self-learning journey:
 ### Fundamentals
 * [MicroMasters® Program in Statistics and Data Science](https://www.edx.org/micromasters/mitx-statistics-and-data-science)
 
-### Applied state of the art Machine Learning and Deep Learning
+### Machine Learning and Deep Learning
 * [MIT Introduction to Deep Learning](http://introtodeeplearning.com/)
 * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 * [Machine Learning, Stanford](https://www.coursera.org/learn/machine-learning)
@@ -67,17 +68,22 @@ These steps helped me to organize my self-learning journey:
 * [Python for Beginners - Go from Java to Python in 100 Steps](https://www.udemy.com/course/learn-python-programming-for-java-programmers/)
 * [Courses on Kaggle](https://www.kaggle.com/learn)
 * [Data Visualization](https://www.freecodecamp.org/learn/data-visualization/), [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/), [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/) courses on [freeCodeCamp](https://www.freecodecamp.org/)
-* [Practice coding skills](https://www.codewars.com/users/Olena%20Bugaiova/stats)
-* [Python Tutorial](https://www.w3schools.com/python/default.asp)
-* [Intermediate Python](https://www.sololearn.com/learning/1158)
+* [Practice coding skills on codewars](https://www.codewars.com/users/Olena%20Bugaiova/stats)
+* [Python Tutorial on w3schools](https://www.w3schools.com/python/default.asp)
+* [Intermediate Python on sololearn](https://www.sololearn.com/learning/1158)
 
 ### Tools
 
 ### Practice
 
-### Preparing for an interview
+### Interview preparation
 * Cheatsheets in [Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/), [Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/) and [Data Science Tools](https://www.mit.edu/~amidi/teaching/data-science-tools/) based on courses at Stanford
 * Cheatsheets in [Statistics](https://github.com/mynameisjanus/186501xStatistics/blob/master/statistics_cheatsheet.pdf) based on MITx course
+
+### Podcasts
+* [The Artists of Data Science](https://theartistsofdatascience.fireside.fm/episodes) that includes Data Science Happy Hour and more
+* [Lex Fridman Podcast](https://www.youtube.com/c/lexfridman) - conversations about science, technology, history, philosophy and the nature of intelligence, consciousness, love, and power. Formerly called Artificial Intelligence (AI Podcast)
+* [Women in Data Science](https://www.youtube.com/channel/UCbyzlQEnV1_MYM4Cbp_7eWg)
 
 ---
 # Subfields
