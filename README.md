@@ -73,10 +73,17 @@ These steps helped me to organize my self-learning journey:
 * [Intermediate Python on sololearn](https://www.sololearn.com/learning/1158)
 
 ### Tools
+* [Einblick](https://einblick.ai/product/) - a collaborative platform to effectively interact with data
+* [Giotto](https://giotto.ai/technology) - topological machine learning toolbox designed to improve the performance, interpretability and robustness of AI
+* [Hugging Face](https://huggingface.co/) - the AI community to build, train and deploy state of the art models
 
 ### Practice
 
 ### Interview preparation
+* Data Science [flashcards](https://www.brainscape.com/subjects/data-science)
+* Data Science interview questions with [interview query](https://www.interviewquery.com/questions)
+* Mock interview service [next round](https://www.nextround.cc/)
+* Coding & no-coding Data Science questions with [stratascratch](https://www.stratascratch.com/)
 * Cheatsheets in [Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/), [Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/) and [Data Science Tools](https://www.mit.edu/~amidi/teaching/data-science-tools/) based on courses at Stanford
 * Cheatsheets in [Statistics](https://github.com/mynameisjanus/186501xStatistics/blob/master/statistics_cheatsheet.pdf) based on MITx course
 
