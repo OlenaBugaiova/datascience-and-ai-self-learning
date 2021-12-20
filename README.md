@@ -49,29 +49,28 @@ These steps helped me to organize my self-learning journey:
 
 
 ### How to study
-* [Marty Lobdell - Study Less Study Smart](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
-* [Andrew Ng: How to Read Research Papers & Machine Learning Career Advice](https://www.youtube.com/watch?v=733m6qBH-jI&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
+* [Study Less Study Smart](https://www.youtube.com/watch?v=IlU-zDU6aQ0), Marty Lobdell
+* [How to Read Research Papers & Machine Learning Career Advice](https://www.youtube.com/watch?v=733m6qBH-jI&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb), Andrew Ng
 
 ### Introductory courses
-* [IBM Data Science](https://www.edx.org/professional-certificate/ibm-data-science)
-* [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/)
-* [The Data Science Course 2021: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/)
+* [Data Science](https://www.edx.org/professional-certificate/ibm-data-science), IBM
+* [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/), Udemy
+* [The Data Science Course 2021: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/), Udemy
 
 ### Fundamentals
-* [MicroMasters® Program in Statistics and Data Science](https://www.edx.org/micromasters/mitx-statistics-and-data-science)
+* [MicroMasters® Program in Statistics and Data Science](https://www.edx.org/micromasters/mitx-statistics-and-data-science), MITx
 
 ### Machine Learning and Deep Learning
-* [MIT Introduction to Deep Learning](http://introtodeeplearning.com/)
-* [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
-* [Machine Learning, Stanford](https://www.coursera.org/learn/machine-learning)
+* [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning), deeplearning.ai
+* [Machine Learning](https://www.coursera.org/learn/machine-learning), Stanford
 
 ### Technologies
-* [Python for Beginners - Go from Java to Python in 100 Steps](https://www.udemy.com/course/learn-python-programming-for-java-programmers/)
-* [Courses on Kaggle](https://www.kaggle.com/learn)
-* [Data Visualization](https://www.freecodecamp.org/learn/data-visualization/), [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/), [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/) courses on [freeCodeCamp](https://www.freecodecamp.org/)
-* [Practice coding skills on codewars](https://www.codewars.com/users/Olena%20Bugaiova/stats)
-* [Python Tutorial on w3schools](https://www.w3schools.com/python/default.asp)
-* [Intermediate Python on sololearn](https://www.sololearn.com/learning/1158)
+* [Python for Beginners - Go from Java to Python in 100 Steps](https://www.udemy.com/course/learn-python-programming-for-java-programmers/), Udemy
+* [Courses](https://www.kaggle.com/learn), Kaggle
+* [Data Visualization](https://www.freecodecamp.org/learn/data-visualization/), [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/), [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/) courses on [FreeCodeCamp](https://www.freecodecamp.org/)
+* [Practice coding skills](https://www.codewars.com/users/Olena%20Bugaiova/stats), Codewars
+* [Python Tutorial](https://www.w3schools.com/python/default.asp), W3Schools
+* [Intermediate Python](https://www.sololearn.com/learning/1158), Sololearn
 
 ### Tools
 * [Einblick](https://einblick.ai/product/) - a collaborative platform to effectively interact with data
@@ -81,10 +80,10 @@ These steps helped me to organize my self-learning journey:
 ### Practice
 
 ### Interview preparation
-* Data Science [flashcards](https://www.brainscape.com/subjects/data-science)
-* Data Science interview questions with [interview query](https://www.interviewquery.com/questions)
-* Mock interview service [next round](https://www.nextround.cc/)
-* Coding & no-coding Data Science questions with [stratascratch](https://www.stratascratch.com/)
+* [Flashcards](https://www.brainscape.com/subjects/data-science)
+* [Train interview questions](https://www.interviewquery.com/questions), InterviewQuery
+* [Mock interview service](https://www.nextround.cc/), NextRound
+* [Coding & No-coding Data Science questions](https://www.stratascratch.com/), Stratascratch
 * Cheatsheets in [Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/), [Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/) and [Data Science Tools](https://www.mit.edu/~amidi/teaching/data-science-tools/) based on courses at Stanford
 * Cheatsheets in [Statistics](https://github.com/mynameisjanus/186501xStatistics/blob/master/statistics_cheatsheet.pdf) based on MITx course
 
@@ -98,18 +97,20 @@ These steps helped me to organize my self-learning journey:
 
 
 ### Deep learning
+* [Introduction to Deep Learning](http://introtodeeplearning.com/), MIT
+* [Deep Learning Lectures](https://www.youtube.com/watch?v=7R52wiUgxZI&list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF), DeepMind x UCL
 
 ### Mathematics
-* [Essence of Linear Algebra, 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-* [Linear Algebra with Prof. Gilbert Strang | MIT](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) and [youtube version](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
+* [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), 3Blue1Brown
+* [Linear Algebra with Prof. Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/), MIT and [youtube version](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
 
 ### Data Science
 * [The Template Notebook](https://github.com/sajal2692/skeleton-notebook/blob/master/The%20Skeleton%20Notebook.ipynb) - this notebook serves as a great starting point for most Supervised Machine Learning projects that involve common tasks such as data exploration, cleaning, transformation and preparation, and data modelling
 * [A Guide to Handling Missing values in Python](https://www.kaggle.com/parulpandey/a-guide-to-handling-missing-values-in-python)
 
 ### Algorithms
-* [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
-* [Practice problem solving with LeetCode](https://leetcode.com/)
+* [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/), MIT
+* [Practice problem solving](https://leetcode.com/), LeetCode
 
 ### Research papers
 * [Adam: A Method for Stochastic Optimization](https://arxiv.org/pdf/1412.6980.pdf)
@@ -126,14 +127,14 @@ These steps helped me to organize my self-learning journey:
 * <b>Math</b> [On the Surprising Behavior of Distance Metrics in High Dimensional Space](https://bib.dbvis.de/uploadedFiles/155.pdf)
 
 ### Domain
-* [Microeconomics](https://www.edx.org/course/microeconomics)
+* [Microeconomics](https://www.edx.org/course/microeconomics), MITx
 
 ### Management
 * [Let’s make work better](https://rework.withgoogle.com/)
 
 ### Soft Skills
 * [How To Speak by Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
-* [How to Write an Essay](https://www.edx.org/course/how-to-write-an-essay)
+* [How to Write an Essay](https://www.edx.org/course/how-to-write-an-essay), edX
 
 ### Inspiration
-* Why Greatness Cannot Be Planned on [the Jim Rutt Show Podcasts](https://www.jimruttshow.com/ken_stanley/)
+* [Why Greatness Cannot Be Planned](https://www.jimruttshow.com/ken_stanley/), the Jim Rutt Show Podcasts
