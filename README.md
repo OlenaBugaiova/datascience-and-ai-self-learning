@@ -1,7 +1,7 @@
 # Experience of an autodidact in Data Science and Artificial Intelligence
 
 
-Self-education allowed creating the path according to my strengths, background, and wishes step by step. With uncertainty after new accomplishments, I realized how much I don't know. Like when reaching the peak of a mountain new peaks appear from the height. Having no feedback for a long time determined how much I believe in my choices. I felt lonely studying on my own. But during the journey, I met enthusiasts from all over the world, and I feel friendship with some of them. Self-education is an opportunity to learn from different perspectives, to live new experiences
+Self-education allowed creating the path according to my strengths, background and wishes step by step. With uncertainty after new accomplishments, I realized how much I don't know: like when reaching a peak of a mountain new peak appears from the height. Having no feedback for a long time determined how much I believe in my choice. I felt lonely studying on my own but during the journey, I met enthusiasts from all over the world, and I feel friendship with some of them. Self-education is an opportunity to learn from different perspectives, to live new experiences
 
 ---
 
@@ -78,7 +78,7 @@ These steps helped me to organize my self-learning journey:
 * [Hugging Face](https://huggingface.co/) - the AI community to build, train and deploy state of the art models
 
 ### Practice
-* [Omdena](https://omdena.com/) - collaborative platform to build innovative, ethical, and efficient AI and Data Science solutions to real-world problems
+* [Omdena](https://omdena.com/) - a collaborative platform to build innovative, ethical, and efficient AI and Data Science solutions to real-world problems
 * [EleutherAI](https://www.eleuther.ai/) - a grassroots collective of researchers working to open source AI research
 * [Kaggle](https://www.kaggle.com/)
 
