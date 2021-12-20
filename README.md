@@ -61,7 +61,7 @@ These steps helped me to organize my self-learning journey:
 * [MicroMasters® Program in Statistics and Data Science](https://www.edx.org/micromasters/mitx-statistics-and-data-science), MITx
 
 ### Machine Learning and Deep Learning
-* [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning), deeplearning.ai
+* [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning), DeepLearning.ai
 * [Machine Learning](https://www.coursera.org/learn/machine-learning), Stanford
 
 ### Technologies
@@ -78,9 +78,13 @@ These steps helped me to organize my self-learning journey:
 * [Hugging Face](https://huggingface.co/) - the AI community to build, train and deploy state of the art models
 
 ### Practice
+* [Omdena](https://omdena.com/) - collaborative platform to build innovative, ethical, and efficient AI and Data Science solutions to real-world problems
+* [EleutherAI](https://www.eleuther.ai/) - a grassroots collective of researchers working to open source AI research
+* [Kaggle](https://www.kaggle.com/)
 
 ### Interview preparation
-* [Flashcards](https://www.brainscape.com/subjects/data-science)
+* [Tests](https://workera.ai/), Workera
+* [Flashcards](https://www.brainscape.com/subjects/data-science), Brainscape
 * [Train interview questions](https://www.interviewquery.com/questions), InterviewQuery
 * [Mock interview service](https://www.nextround.cc/), NextRound
 * [Coding & No-coding Data Science questions](https://www.stratascratch.com/), Stratascratch
