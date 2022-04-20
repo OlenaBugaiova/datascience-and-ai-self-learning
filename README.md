@@ -108,9 +108,10 @@ These steps helped me to organize my self-learning journey:
 * [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), 3Blue1Brown
 * [Linear Algebra with Prof. Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/), MIT and [youtube version](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
 
-### Data Science
+### Data Science & Machine Learning
 * [The Template Notebook](https://github.com/sajal2692/skeleton-notebook/blob/master/The%20Skeleton%20Notebook.ipynb) - this notebook serves as a great starting point for most Supervised Machine Learning projects that involve common tasks such as data exploration, cleaning, transformation and preparation, and data modelling
 * [A Guide to Handling Missing values in Python](https://www.kaggle.com/parulpandey/a-guide-to-handling-missing-values-in-python)
+* [Structuring Machine Learning projects](https://towardsdatascience.com/structuring-machine-learning-projects-be473775a1b6)
 
 ### Algorithms
 * [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/), MIT
