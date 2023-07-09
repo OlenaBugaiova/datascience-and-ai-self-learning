@@ -1,7 +1,10 @@
 # Experience of an autodidact in Data Science and Artificial Intelligence
 
+<img width="456" alt="autodidact" src="https://github.com/OlenaBugaiova/datascience-and-ai-self-learning/assets/26848048/7a61c7cd-a724-4d36-a35f-8817575b17b1">
 
-Self-education allowed creating the path according to my strengths, background and wishes step by step. With uncertainty after new accomplishments, I realized how much I don't know: like when reaching a peak of a mountain new peak appears from the height. Having no feedback for a long time determined how much I believe in my choice. I felt lonely studying on my own but during the journey, I met enthusiasts from all over the world, and I feel friendship with some of them. Self-education is an opportunity to learn from different perspectives, to live new experiences
+Picture is taken from the article ["Students: could you be an autodidact?"](https://www.theguardian.com/education/2014/feb/28/could-you-be-an-autodidact)
+
+Self-education allowed creating the path according to my strengths, background and wishes step by step. With uncertainty after new accomplishments, I realized how much I don't know: like when reaching a peak of a mountain new peak appears from the height. Having no feedback for a long time determined how much I believe in my choice. During the journey, I met enthusiasts from all over the world, and I feel a friendship with some of them. Self-education is an opportunity to learn from different perspectives, to live new experiences
 
 ---
 
