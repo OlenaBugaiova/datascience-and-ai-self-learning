@@ -2,18 +2,19 @@
 
 <img width="456" alt="autodidact" src="https://github.com/OlenaBugaiova/datascience-and-ai-self-learning/assets/26848048/7a61c7cd-a724-4d36-a35f-8817575b17b1">
 
-Picture is taken from the article ["Students: could you be an autodidact?"](https://www.theguardian.com/education/2014/feb/28/could-you-be-an-autodidact)
+A picture is taken from the article ["Students: could you be an autodidact?"](https://www.theguardian.com/education/2014/feb/28/could-you-be-an-autodidact)
 
-Self-education allowed creating the path according to my strengths, background and wishes step by step. With uncertainty after new accomplishments, I realized how much I don't know: like when reaching a peak of a mountain new peak appears from the height. Having no feedback for a long time determined how much I believe in my choice. During the journey, I met enthusiasts from all over the world, and I feel a friendship with some of them. Self-education is an opportunity to learn from different perspectives, to live new experiences
+Self-education allowed me to create the path according to my strengths, background, and wishes. During the journey, I met enthusiasts from different parts of the world and made friends with some of them. At first, after new accomplishments, I realized how much I didn't know: like when reaching a peak of a mountain a new peak appears from the height. After some time, I found that different Data Science subjects become connected to one another and new learning material started, to some extent, repeating what I already know. Self-education gives an opportunity to learn from different perspectives and live new experiences.
 
 ---
 
 These steps helped me to organize my self-learning journey:
 * I asked myself: 
-  * What drives me?, - and from curiosity, inspiration, motivation and obstacles this time the answer was: curiosity, inspiration and motivation
-  * What keeps me inspired? - Research, science, high-quality courses, like-minded people, applying AI and Data Science to the real-life problems, business acumen, 'playing' with the data, visualizing, retrieving insights, learning about the world, understanding the concept/idea, successfully applying my mathematical skills
+  * What drives me? - and this time an answer was: curiosity, inspiration, and motivation
+  * What keeps me inspired? - Research, science, high-quality courses, like-minded people, applying AI and Data Science to real-life problems, business acumen, 'playing' with the data, visualizing, retrieving insights, learning about the world, understanding the concept/idea, successfully applying my mathematical skills
 * I respected my time; explained to friends and relatives my purpose; I found my rhythm and kept a balance of study and the rest
-* I planned my expenses and wrote them down into my notes to be aware. I applied and received financial aid for the courses and tickets to conferences when I couldn't attend otherwise 
+* I planned my expenses and wrote them down in my notes
+* I applied and received financial aid for the courses and tickets to conferences when I couldn't attend otherwise 
 * I researched and made decisions on these topics:
     * Which courses to take?
     * Whom to follow?
@@ -21,8 +22,9 @@ These steps helped me to organize my self-learning journey:
     * How to highlight my knowledge and skills?
     * What type of work do I like?
     * Where to apply?
-    * What do I need to learn about the field to become confident at work?
-    * Is there a way for me to become a researcher or a scientist keeping a study-life balance?
+    * What are the most important things for me at work
+    * What to learn about the field to become confident at work?
+    * What is the way to become a researcher or a scientist, and do I want to pursue that path?
 
 ---
 
