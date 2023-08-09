@@ -4,7 +4,7 @@
 
 A picture is taken from the article ["Students: could you be an autodidact?"](https://www.theguardian.com/education/2014/feb/28/could-you-be-an-autodidact)
 
-Self-education allowed me to create the path according to my strengths, background, and wishes. During the journey, I met enthusiasts from different parts of the world and made friends with some of them. At first, after new accomplishments, I realized how much I didn't know: like when reaching a peak of a mountain a new peak appears from the height. After some time, I found that different Data Science subjects become connected to one another and new learning material started, to some extent, repeating what I already know. Self-education gives an opportunity to learn from different perspectives and live new experiences.
+Self-education allowed me to create a path according to my strengths, background and wishes. During the journey, I met enthusiasts from different parts of the world and made friends. At first, with new accomplishments, I realized how much I didn't know: like when reaching a peak of a mountain a new peak appears from the height. But after some time I found how different subfields are interconnected and new material repeats what I already know. Yet, there is always room to improve and practice. Practice makes perfect. Self-education gives an opportunity to learn different perspectives: academic, industry, etc and live new experiences.
 
 ---
 
